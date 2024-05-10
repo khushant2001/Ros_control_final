@@ -1,0 +1,9 @@
+source;share/pool_game/hook/pythonpath.ps1
+source;share/pool_game/hook/pythonpath.dsv
+source;share/pool_game/hook/pythonpath.sh
+source;share/pool_game/hook/ament_prefix_path.ps1
+source;share/pool_game/hook/ament_prefix_path.dsv
+source;share/pool_game/hook/ament_prefix_path.sh
+source;../../build/pool_game/share/pool_game/hook/pythonpath_develop.ps1
+source;../../build/pool_game/share/pool_game/hook/pythonpath_develop.dsv
+source;../../build/pool_game/share/pool_game/hook/pythonpath_develop.sh

@@ -1,0 +1,3 @@
+[console_scripts]
+move = pool_game.move:main
+

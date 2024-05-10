@@ -1,0 +1,21 @@
+[0.607s] Invoking command in '/home/lab/pool/build/pool_game': PYTHONPATH=/home/lab/pool/build/pool_game/prefix_override:/home/lab/pool/install/pool_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/lab/pool/build/pool_game/build --no-deps install_data
+[0.814s] running develop
+[0.815s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.815s]   warnings.warn(
+[0.816s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.816s]   warnings.warn(
+[0.957s] running egg_info
+[0.957s] writing pool_game.egg-info/PKG-INFO
+[0.958s] writing dependency_links to pool_game.egg-info/dependency_links.txt
+[0.958s] writing entry points to pool_game.egg-info/entry_points.txt
+[0.958s] writing requirements to pool_game.egg-info/requires.txt
+[0.958s] writing top-level names to pool_game.egg-info/top_level.txt
+[0.959s] reading manifest file 'pool_game.egg-info/SOURCES.txt'
+[0.960s] writing manifest file 'pool_game.egg-info/SOURCES.txt'
+[0.961s] running build_ext
+[0.961s] Creating /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool-game.egg-link (link to .)
+[0.962s] Installing move script to /home/lab/pool/install/pool_game/lib/pool_game
+[0.962s] 
+[0.962s] Installed /home/lab/pool/build/pool_game
+[0.962s] running install_data
+[0.980s] Invoked command in '/home/lab/pool/build/pool_game' returned '0': PYTHONPATH=/home/lab/pool/build/pool_game/prefix_override:/home/lab/pool/install/pool_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/lab/pool/build/pool_game/build --no-deps install_data

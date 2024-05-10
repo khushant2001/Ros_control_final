@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/pool_game/pool_game.egg-info
+writing ../../build/pool_game/pool_game.egg-info/PKG-INFO
+writing dependency_links to ../../build/pool_game/pool_game.egg-info/dependency_links.txt
+writing entry points to ../../build/pool_game/pool_game.egg-info/entry_points.txt
+writing requirements to ../../build/pool_game/pool_game.egg-info/requires.txt
+writing top-level names to ../../build/pool_game/pool_game.egg-info/top_level.txt
+writing manifest file '../../build/pool_game/pool_game.egg-info/SOURCES.txt'
+reading manifest file '../../build/pool_game/pool_game.egg-info/SOURCES.txt'
+writing manifest file '../../build/pool_game/pool_game.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/lab/pool/build/pool_game/build
+creating /home/lab/pool/build/pool_game/build/lib
+creating /home/lab/pool/build/pool_game/build/lib/pool_game
+copying pool_game/__init__.py -> /home/lab/pool/build/pool_game/build/lib/pool_game
+copying pool_game/move.py -> /home/lab/pool/build/pool_game/build/lib/pool_game
+running install
+running install_lib
+creating /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool_game
+copying /home/lab/pool/build/pool_game/build/lib/pool_game/__init__.py -> /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool_game
+copying /home/lab/pool/build/pool_game/build/lib/pool_game/move.py -> /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool_game
+byte-compiling /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool_game/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool_game/move.py to move.cpython-310.pyc
+running install_data
+creating /home/lab/pool/install/pool_game/share/ament_index
+creating /home/lab/pool/install/pool_game/share/ament_index/resource_index
+creating /home/lab/pool/install/pool_game/share/ament_index/resource_index/packages
+copying resource/pool_game -> /home/lab/pool/install/pool_game/share/ament_index/resource_index/packages
+copying package.xml -> /home/lab/pool/install/pool_game/share/pool_game
+running install_egg_info
+Copying ../../build/pool_game/pool_game.egg-info to /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool_game-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move script to /home/lab/pool/install/pool_game/lib/pool_game
+writing list of installed files to '/home/lab/pool/build/pool_game/install.log'

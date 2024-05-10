@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing pool_game.egg-info/PKG-INFO
+writing dependency_links to pool_game.egg-info/dependency_links.txt
+writing entry points to pool_game.egg-info/entry_points.txt
+writing requirements to pool_game.egg-info/requires.txt
+writing top-level names to pool_game.egg-info/top_level.txt
+reading manifest file 'pool_game.egg-info/SOURCES.txt'
+writing manifest file 'pool_game.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool-game.egg-link (link to .)
+Installing move script to /home/lab/pool/install/pool_game/lib/pool_game
+
+Installed /home/lab/pool/build/pool_game
+running install_data

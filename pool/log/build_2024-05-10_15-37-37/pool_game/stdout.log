@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/pool_game/pool_game.egg-info/PKG-INFO
+writing dependency_links to ../../build/pool_game/pool_game.egg-info/dependency_links.txt
+writing entry points to ../../build/pool_game/pool_game.egg-info/entry_points.txt
+writing requirements to ../../build/pool_game/pool_game.egg-info/requires.txt
+writing top-level names to ../../build/pool_game/pool_game.egg-info/top_level.txt
+reading manifest file '../../build/pool_game/pool_game.egg-info/SOURCES.txt'
+writing manifest file '../../build/pool_game/pool_game.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pool_game/move.py -> /home/lab/pool/build/pool_game/build/lib/pool_game
+running install
+running install_lib
+copying /home/lab/pool/build/pool_game/build/lib/pool_game/move.py -> /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool_game
+byte-compiling /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool_game/move.py to move.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool_game-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/pool_game/pool_game.egg-info to /home/lab/pool/install/pool_game/lib/python3.10/site-packages/pool_game-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move script to /home/lab/pool/install/pool_game/lib/pool_game
+writing list of installed files to '/home/lab/pool/build/pool_game/install.log'
